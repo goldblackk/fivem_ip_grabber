@@ -1,0 +1,7 @@
+C:\Users\Daniel\Desktop\fivem_ip_grabber\fivem_ip_grabber\bin\Debug\fivem_ip_grabber.exe.config
+C:\Users\Daniel\Desktop\fivem_ip_grabber\fivem_ip_grabber\bin\Debug\fivem_ip_grabber.exe
+C:\Users\Daniel\Desktop\fivem_ip_grabber\fivem_ip_grabber\bin\Debug\fivem_ip_grabber.pdb
+C:\Users\Daniel\Desktop\fivem_ip_grabber\fivem_ip_grabber\obj\Debug\fivem_ip_grabber.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\fivem_ip_grabber\fivem_ip_grabber\obj\Debug\fivem_ip_grabber.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\fivem_ip_grabber\fivem_ip_grabber\obj\Debug\fivem_ip_grabber.exe
+C:\Users\Daniel\Desktop\fivem_ip_grabber\fivem_ip_grabber\obj\Debug\fivem_ip_grabber.pdb
